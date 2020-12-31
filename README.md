@@ -1,2 +1,0 @@
-# The-BOSS
-Eğlence Botu
